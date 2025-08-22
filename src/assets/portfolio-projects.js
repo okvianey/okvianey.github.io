@@ -6,8 +6,8 @@ export const himnapp = {
   description: '',
   tags: [ 'html/css', 'javascript', 'gatsby', 'mui' ],
   image: "url(/image/himnapp-3.jpg)",
-  urlRepo: 'https://github.com/vianydev/himnapp',
-  urlLive: 'https://vianydev.github.io/himnapp/'
+  urlRepo: 'https://github.com/okvianey/himnapp',
+  urlLive: 'https://okvianey.github.io/himnapp/'
 }
 export const swmonse = {
   name: 'Spanish with monse',
@@ -15,7 +15,7 @@ export const swmonse = {
   description: '',
   tags: [ 'html/css', 'javascript', 'reactjs' ],
   image: "url(/image/swmonse-2.jpg)",
-  urlRepo: 'https://github.com/vianydev/spanish-with-monse',
+  urlRepo: 'https://github.com/okvianey/spanish-with-monse',
   urlLive: 'https://www.spanishwithmonse.com/'
 }
 export const temperamentos = {
@@ -24,8 +24,8 @@ export const temperamentos = {
   description: '',
   tags: [ 'html/css', 'javascript', 'nextjs', 'tailwind' ],
   image: "url(/image/temperamentos-2.jpg)",
-  urlRepo: 'https://github.com/vianydev/temperamentos',
-  urlLive: 'https://vianydev.github.io/temperamentos/'
+  urlRepo: 'https://github.com/okvianey/temperamentos',
+  urlLive: 'https://okvianey.github.io/temperamentos/'
 }
 export const focusNow = {
   name: 'Focus Now',
@@ -33,7 +33,7 @@ export const focusNow = {
   description: '',
   tags: [ 'html/css', 'javascript', 'react' ],
   image: "url(/image/focus-now/focusnow-app.jpg)",
-  urlRepo: 'https://github.com/vianydev/focusnow',
+  urlRepo: 'https://github.com/okvianey/focusnow',
   urlLive: 'https://www.spanishwithmonse.com/'
 }
 export const pieb = {
@@ -51,9 +51,9 @@ export const construin = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/construin-2.jpg)",
-  // urlRepo: 'https://github.com/vianydev/construin',
+  // urlRepo: 'https://github.com/okvianey/construin',
   urlRepo: '',
-  urlLive: 'https://vianydev.github.io/construin/'
+  urlLive: 'https://okvianey.github.io/construin/'
 }
 export const himnappweb = {
   name: 'Himnapp - website',
@@ -61,8 +61,8 @@ export const himnappweb = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/himnappweb-3.jpg)",
-  urlRepo: 'https://github.com/vianydev/himnappweb',
-  urlLive: 'https://vianydev.github.io/himnappweb/'
+  urlRepo: 'https://github.com/okvianey/himnappweb',
+  urlLive: 'https://okvianey.github.io/himnappweb/'
 }
 export const jerezweb = {
   name: 'Jerez y asociados',
@@ -79,7 +79,7 @@ export const sucval = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/sucval.jpg)",
-  urlRepo: 'https://github.com/vianydev/sucval',
+  urlRepo: 'https://github.com/okvianey/sucval',
   urlLive: 'https://sucval.flatlatte.com/'
 }
 export const algodon = {
@@ -88,8 +88,8 @@ export const algodon = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/algodon.jpg)",
-  urlRepo: 'https://github.com/vianydev/algodon-de-azucar',
-  urlLive: 'https://vianydev.github.io/algodon-de-azucar/'
+  urlRepo: 'https://github.com/okvianey/algodon-de-azucar',
+  urlLive: 'https://okvianey.github.io/algodon-de-azucar/'
 }
 
 export const losdaners = {
@@ -98,7 +98,7 @@ export const losdaners = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/los-daners-1.jpg)",
-  urlRepo: 'https://github.com/vianydev/losdaners',
+  urlRepo: 'https://github.com/okvianey/losdaners',
   urlLive: 'https://losdaners.flatlatte.com/'
 }
 
@@ -108,6 +108,6 @@ export const localespalmitas = {
   description: '',
   tags: [ 'html/css', 'javascript', 'bootstrap' ],
   image: "url(/image/localespalmitas.jpg)",
-  urlRepo: 'https://github.com/vianydev/localespalmitas',
+  urlRepo: 'https://github.com/okvianey/localespalmitas',
   urlLive: 'https://localespalmitas.flatlatte.com/'
 }
